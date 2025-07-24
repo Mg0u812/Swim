@@ -1,0 +1,6 @@
+{
+  "name": "Swim Practice Analyzer",
+  "description": "An app that uses AI to analyze a swimmer's practice log, breaking down workouts and providing coaching tips to improve performance.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
